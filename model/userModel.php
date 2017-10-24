@@ -9,7 +9,7 @@ class User extends model {
     public $rank;
     public $active;
 
-    public function getYId(){
+    public function getUId(){
         return $this->uid;
     }
 
