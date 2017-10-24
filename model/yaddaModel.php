@@ -32,5 +32,13 @@
     public function getText(){
             return $this->text;
     }
-    
+    public function create(){
+        // create function goes here
+    }
+    public function update(){
+        // update function goes here
+    }
+    public function delete(){
+        //delete function goes here
+    }
     }

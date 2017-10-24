@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5769ac38-620a-4ca1-b0d7-1b1c90e9c7fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/modelIF.php" afterPath="$PROJECT_DIR$/model/modelIF.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/yaddaModel.php" afterPath="$PROJECT_DIR$/model/yaddaModel.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,23 +26,9 @@
       <file leaf-file-name="yaddaModel.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/yaddaModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <state relative-caret-position="798">
+              <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModelCity.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Assignment10/model/ModelCity.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding>
-                <marker date="1508574684930" expanded="true" signature="1152:1265" ph="insert into city... " />
-                <marker date="1508574684930" expanded="true" signature="1761:2110" ph="update city " />
-                <marker date="1508574684930" expanded="true" signature="2923:2956" ph="DELETE FROM " />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -151,12 +134,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508829382848</updated>
       <workItem from="1508829385062" duration="684000" />
-      <workItem from="1508830550199" duration="1274000" />
+      <workItem from="1508830550199" duration="1676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1958000" />
+    <option name="totallyTimeSpent" value="2360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
@@ -419,7 +402,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Assignment10/model/ModelCity.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
+        <state relative-caret-position="-2008">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <marker date="1508574684930" expanded="true" signature="1152:1265" ph="insert into city... " />
@@ -431,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/yaddaModel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        <state relative-caret-position="798">
+          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
           <folding />
         </state>
       </provider>
