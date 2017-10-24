@@ -1,7 +1,9 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Kevin
- * Date: 24-10-2017
- * Time: 09:21
- */
+require_once '/model/modelIF.php';
+
+abstract class model implements modelIF{
+
+    abstract public function create();
+    abstract public function delete();
+    abstract public function update();
+}
