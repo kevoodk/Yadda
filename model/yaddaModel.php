@@ -1,7 +1,36 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Kevin
- * Date: 24-10-2017
- * Time: 09:20
- */
+    require_once './model.php';
+
+    class yadda extends model{
+    protected $yaddaId;
+    protected $text;
+    protected $image;
+    protected $tags;
+    protected $last;
+    protected $created;
+    protected $uid;
+
+
+    public function getYId(){
+        return $this->yaddaId;
+    }
+    public function getUId(){
+            return $this->uid;
+    }
+    public function getImage(){
+            return $this->image;
+    }
+    public function getTags(){
+            return $this->tags;
+    }
+    public function getCreated(){
+            return $this->created;
+    }
+    public function getLast(){
+            return $this->last;
+    }
+    public function getText(){
+            return $this->text;
+    }
+    
+    }

@@ -1,7 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Kevin
- * Date: 24-10-2017
- * Time: 09:21
- */
+interface modelIF {
+public function create();
+public function update();
+public function delete();
+}
